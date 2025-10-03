@@ -14,18 +14,45 @@ body {
     display: inline-block;
     width: 300px;
     padding: 20px;
-    border: 1px solid red;
+    border: 1px solid #acafb3f5;
     margin: 20px;
+ 
+}
+#facebook{
+    width: 30px;
 }
 
 .secundaria {
-    border: 1px solid red;
+    border: 1px solid #acafb3f5;
     width: 300px;
-    margin: 10px auto;
+    margin: auto;
+    padding: 20px 20px;
+ 
 }
+
+
 
 button {
     display: block;
     text-align: center;
     margin: auto;
+    width: 80%;
+    margin: 30px;
+    padding: 15px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(91, 91, 218);
+    color: white;
+}
+
+hr {
+    display: inline;
+    pad: 20px 0;
+    margin: 10px;
+}
+
+input{
+    margin: 5px;
+    padding: 15px 30px;
+    border: 1px solid #acafb3f5; 
 }

@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    text-align: center;
+
+}
+
+.Container-principal {
+    display: inline-block;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid red;
+    margin: 20px;
+}
+
+.secundaria {
+    border: 1px solid red;
+    width: 300px;
+    margin: 10px auto;
+}
+
+button {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
